@@ -1,0 +1,15 @@
+# WordPress uploads
+wp-content/uploads/
+# Local config / secrets
+.env
+wordpress_app/
+# Cache
+__pycache__/
+*.pyc
+.cache/
+# OS
+.DS_Store
+Thumbs.db
+# Temporary
+/tmp/
+/workspace/
